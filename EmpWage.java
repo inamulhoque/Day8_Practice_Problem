@@ -30,7 +30,7 @@ public class EmpWage {
         }
         System.out.println("Monthly wage of the employee is: "+totalWage);
         System.out.println("Total Working Hour is: "+Total_Working_Hour);
-
+        System.out.println("Completed using method.");
     }
     public static void main(String[] args) {
         System.out.println("Welcome to employee wage computation program on master branch.");
