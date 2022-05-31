@@ -27,7 +27,7 @@ public class EmpWage {
             Total_Working_Hour=Total_Working_Hour+emphrs;
             totalWage = EmpRatePerHour*Total_Working_Hour;
         }
-        System.out.print("Monthly wage is: "+totalWage);
+        System.out.print("Monthly wage of the employee is: "+totalWage);
 
     }
     public static void main(String[] args) {
